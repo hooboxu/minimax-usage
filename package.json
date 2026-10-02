@@ -16,7 +16,7 @@
     "start:api": "node dist/api/src/server.js"
   },
   "engines": {
-    "node": "20.x"
+    "node": "24.x"
   },
   "dependencies": {
     "@fastify/cors": "^11.1.0",
